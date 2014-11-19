@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NewsJSONURL</key>
+	<string>https://public-api.wordpress.com/rest/v1/sites/www.thecaptainslog.org/posts/?context=display&amp;number=5&amp;category=News</string>
+	<key>SportsJSONURL</key>
+	<string>https://public-api.wordpress.com/rest/v1/sites/www.thecaptainslog.org/posts/?context=display&amp;number=5&amp;category=Sports</string>
+	<key>OpinionsJSONURL</key>
+	<string>https://public-api.wordpress.com/rest/v1/sites/www.thecaptainslog.org/posts/?context=display&amp;number=5&amp;category=Opinions</string>
+	<key>ArtsJSONURL</key>
+	<string>https://public-api.wordpress.com/rest/v1/sites/www.thecaptainslog.org/posts/?context=display&amp;number=5&amp;category=arts_entertainment</string>
+	<key>LifestyleJSONURL</key>
+	<string>https://public-api.wordpress.com/rest/v1/sites/www.thecaptainslog.org/posts/?context=display&amp;number=5&amp;category=lifestyle</string>
+</dict>
+</plist>

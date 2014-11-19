@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NewsJSONURL</key>
+	<string>http://json.thecaptainslog.org/news.json</string>
+	<key>SportsJSONURL</key>
+	<string>http://json.thecaptainslog.org/sports.json</string>
+	<key>OpinionsJSONURL</key>
+	<string>http://json.thecaptainslog.org/opinions.json</string>
+	<key>ArtsJSONURL</key>
+	<string>http://json.thecaptainslog.org/arts.json</string>
+	<key>LifestyleJSONURL</key>
+	<string>http://json.thecaptainslog.org/lifestyle.json</string>
+</dict>
+</plist>
